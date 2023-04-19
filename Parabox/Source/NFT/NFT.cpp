@@ -1,0 +1,6 @@
+// Copyright Sam Bonifacio. All Rights Reserved.
+
+#include "NFT.h"
+#include "Modules/ModuleManager.h"
+
+IMPLEMENT_PRIMARY_GAME_MODULE( FDefaultGameModuleImpl, NFT, "NFT" );
